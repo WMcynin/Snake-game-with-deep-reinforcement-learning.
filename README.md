@@ -1,5 +1,6 @@
 DRL4SnakeGame
 clong from https://github.com/zyunfeii/drl4snakegame
+
 Using deep reinforcement learning to play Snake game(贪吃蛇).
 run the main.py and then run the env4Snake to test mdoel
 
